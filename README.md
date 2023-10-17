@@ -3,6 +3,35 @@ Curso para aprender que es y cuando conviene automatizar pruebas de software. Co
 
 Ventajas y desventajas de la automatizacion 
 
+# HERRAMIENTAS DE TESTING
+
+Unit Testing
+- Jest
+- Mocha
+- React/Vue Testing Library
+- Enzyme
+
+API testing
+- Rest assured
+- Postman
+- Insomnia
+
+Web Browser Testing
+- seleniuum 
+- Puppeteer
+- Playwright
+- Testcafe
+- Protactor
+
+Mobile testing
+- Appium 
+- Detox
+- Calabash
+
+Performance
+- Jmeter
+- Gatling
+
 # Ventajas
 * Mejorar la eficiencia de las pruebas.
 * Proporcionar una cobertura de pruebas mas amplia con respecto a las pruebas manuales
